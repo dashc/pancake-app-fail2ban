@@ -11,7 +11,8 @@ enabled  = true
 port   = http,https  
 filter = pancake  
 logpath  = /var/log/auth.log  
-maxretry = 3```
+maxretry = 3
+```
 
 ### Filter
 
