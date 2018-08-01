@@ -1,6 +1,5 @@
 # Fail2Ban Filter for [Pancake App](https://www.pancakeapp.com/ref/5UCrtz)
 
-Please checkout my blog [TechTutes.net](http://techtutes.net/fail2ban-pancake-app/) for full tutorial. 
 
 ### Fail2Ban - jail.local
 
